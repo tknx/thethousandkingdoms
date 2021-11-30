@@ -5,3 +5,6 @@ main:
   - name: Commentary
     url: /commentary/
     weight: 3
+  - name: Reference
+    url: /reference/
+    weight: 4
