@@ -1,0 +1,7 @@
+main:
+  - name: The Story
+    url: /posts/
+    weight: 2
+  - name: Commentary
+    url: /commentary/
+    weight: 3
