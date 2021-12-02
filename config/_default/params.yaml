@@ -47,7 +47,7 @@ comment:
   # disqus:
   #   shortname:
 
-  # utterances:
+  utterances:
   #   # Browse https://utteranc.es/ to see the options available.
   #   # If you want the color scheme of utterances to follow eureka's, you can set `theme: eureka`.
   repo: tknx/thethousandkingdoms
