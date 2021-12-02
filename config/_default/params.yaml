@@ -50,7 +50,7 @@ comment:
   utterances:
   #   # Browse https://utteranc.es/ to see the options available.
   #   # If you want the color scheme of utterances to follow eureka's, you can set `theme: eureka`.
-  repo: "tknx/thethousandkingdoms"
+  repo: "tknx/thethousandkingdoms.io"
   issue-term: "title"
   theme: "eureka"
 
