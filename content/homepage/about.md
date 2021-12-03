@@ -8,7 +8,7 @@ organization:
 social:
   - icon: patreon
     iconPack: fab
-    url: https://example.com/
+    url: https://www.patreon.com/bePatron?u=4041825
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/intent/tweet?text=I%20am%20reading%20The%20Thousand%20Kingdoms&url=https%3A%2F%2Fthethousandkingdoms.com
