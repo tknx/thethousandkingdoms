@@ -9,6 +9,8 @@ enableComment: true
 
 *Eesha Eleanor Jindal-Witten* - Our heroine is 5'6" with bronze skin from her half-Indian heritage. Brown eyes naturally and black hair. She starts the story at 25 years old and first-year Physics Ph.D student at NYU.
 
+*Harish "Harry" Jindal-Witten* - The annoying little brother. Senior at Francis Lewis High School in Queens. 
+
 *Henry Jindal-Witten* - Ella's father.  Tall (6'2"), broad shouldered, a light dusting of freckles, blue-green eyes, and tousled brown hair. Basically a very handsome guy with a square jaw. Was a soap opera actor, minor love interest in several movies before going back to school and eventually become a professor of anthropology. Moved to NYC from Bristol, UK for his first acting gig - getting a closet-sized studio in Jackson Heights where he met Navneet.
 
 *Navneet Jindal-Witten* - Ella's mother. Short (5'4"), petite and perhaps more attractive than her husband. If undercut by her knowing it. Always super-fashionable and put together, she is the kind of person who would put on makeup before the apocalypse and take time to adjust it during.Trauma surgeon at New York Presbytarian in Queens. She is first-generation American born in Jackson Heights and met Henry while living with her parents while attending medical school at Columbia.
