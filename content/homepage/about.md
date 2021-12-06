@@ -46,4 +46,4 @@ widget:
 
 ## A few notes
 
-This book is published mostly when I have time to write, which is irregular since I have a day job. Nothing in it is sacrosanct, and I have no hesitation in going back and re-editing things to fit continuity. Ignore the footnotes if you would like, nothing critical will go in there, just commentary.
+This book is published mostly when I have time to write, which is irregular since I have a day job. Nothing in it is sacrosanct, I write minimally and then go back and add details and reconcile where needed. Ignore the footnotes if you would like, nothing critical will go in there, just random stuff.
