@@ -24,4 +24,8 @@ enableComment: true
 
 ##### Dwarves
 
-*Kothin* - The first dwarf that Ella has met. 
+*Kothin* - The first dwarf that Ella has met.
+
+##### Orcs
+
+*Emperor Akrri* - Strange monarch who crowned Elli
