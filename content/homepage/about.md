@@ -9,9 +9,9 @@ social:
   - icon: patreon
     iconPack: fab
     url: https://www.patreon.com/bePatron?u=4041825
-  - icon: twitter
+  - icon: spotify
     iconPack: fab
-    url: https://twitter.com/intent/tweet?text=I%20am%20reading%20The%20Thousand%20Kingdoms&url=https%3A%2F%2Fthethousandkingdoms.com
+    url: https://open.spotify.com/playlist/1O10MvaYCaLH18jKfr1wqk?si=b49c83e78d2a4501
   - icon: facebook
     iconPack: fab
     url: https://example.com/
