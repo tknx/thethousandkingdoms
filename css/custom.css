@@ -4,6 +4,8 @@
 .widget-breadcrumbs li, .widget-breadcrumbs li a, .widget-breadcrumbs li, .widget-breadcrumbs li span { color: #65737d; text-transform: lowercase; font-weight: normal; }
 .menu li {text-transform:lowercase}
 
+.upper-page-links { float: right; }
+
 .entry-content h3 { font-size: 80%; text-transform: uppercase; font-weight:600; margin: 0; text-align:right; padding: 0; }
 .entry-content h4 { font-size: 80%; text-transform: uppercase; font-weight:600; margin: 0 0 2em 0; text-align:right; padding: 0; }
 
