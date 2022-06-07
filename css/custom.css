@@ -1,7 +1,7 @@
 .site-title, .title, blockquote.authorsnote h2 { font-family: 'var(--font-accent)', Georgia, 'Times New Roman', Times, serif; }
 .title { font-weight: normal; }
 
-.widget-breadcrumbs li, .widget-breadcrumbs li a, .widget-breadcrumbs li, .widget-breadcrumbs li span { color: #65737d; text-transform: lowercase; font-weight: normal; }
+.widget-breadcrumbs li, .widget-breadcrumbs li a, .widget-breadcrumbs li, .widget-breadcrumbs li span { text-transform: lowercase; font-weight: normal; }
 .menu li {text-transform:lowercase}
 
 .upper-page-links { float: right; }
@@ -21,8 +21,8 @@ blockquote.authorsnote { border-left: .2em solid var(--color-accent); font-style
 blockquote.authorsnote h2 {font-size: 100%; text-transform: uppercase; font-weight:500; }
 blockquote.authorsnote h3, blockquote.authorsnote h4 {text-align: left;}
 
-a { color: black; text-decoration: none; transition:color .1s ease-in-out }
-a:active, a:focus, a:hover { color: var(--color-accent); }
+a { text-decoration: none; transition:color .1s ease-in-out }
+a:active, a:focus, a:hover, .item a:hover, a:hover h3, .widget-social_menu a:hover { color: var(--color-accent); }
 
 .comment-content a, .entry-content a { border-bottom: unset; text-decoration: underline dotted var(--color-accent) }
 .comment-content a:hover, .entry-content a:hover { border-bottom: unset; text-decoration: underline var(--color-accent) }
