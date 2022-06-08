@@ -15,7 +15,7 @@
 .list .list { margin-left: 1em; }
 .list .item-title {font-weight: normal; }
 
-blockquote { font-size: 90%; }
+blockquote, code, pre { font-size: 90%; }
 
 blockquote.authorsnote { border-left: .2em solid var(--color-accent); font-style: normal; }
 blockquote.authorsnote h2 {font-size: 100%; text-transform: uppercase; font-weight:500; }
